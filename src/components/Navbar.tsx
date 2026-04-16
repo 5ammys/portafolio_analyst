@@ -56,8 +56,8 @@ export default function Navbar() {
             letterSpacing: "-0.5px",
           }}
         >
-          <span>betterCallSam</span>
-          <span style={{ color: "var(--accent-blue)" }}>()</span>
+          <span>SM</span>
+          <span style={{ color: "var(--accent-blue)" }}>("data.csv")</span>
         </Link>
 
         {/* Desktop nav */}
